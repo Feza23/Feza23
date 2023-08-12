@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feza23&label=Profile%20views&color=0e75b6&style=flat" alt="feza23" /> </p>
 
-- 🔭 I’m currently working on **a game clone.**
+- 🔭 I’m currently working on **a java based game clone**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, HTML, CSS**
 
-- 📫 How to reach me **fdarakshan23.11@gmail.com**
+- 📫 To reach me **fdarakshan23.11@gmail.com**
 
 - ⚡ Fun fact **I like contributing to NGOs**
 
