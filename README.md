@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Java, HTML, CSS**
+- 💬 Ask me about **Java, HTML, CSS, Cloud Computing**
 
 - 📫 To reach me **fdarakshan23.11@gmail.com**
 
