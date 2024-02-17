@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a java based game clone**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack and DevOps**
 
 - 💬 Ask me about **Java, HTML, CSS, Cloud Computing**
 
