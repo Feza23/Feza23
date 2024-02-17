@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and DevOps**
 
-- 💬 Ask me about **Java, HTML, CSS, Cloud Computing**
+- 💬 Ask me about **Java, HTML, CSS, JavaScript, MySQL, Linux, AWS, Cloud Computing**
 
 - 📫 To reach me **fdarakshan23.11@gmail.com**
 
